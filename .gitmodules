@@ -1,6 +1,3 @@
 [submodule "subs"]
 	path = subs
 	url = https://github.com/elphinstonerf/subs.git
-[submodule "azure-policy"]
-	path = azure-policy
-	url = https://github.com/Azure/azure-policy
